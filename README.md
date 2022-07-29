@@ -7,10 +7,11 @@ This was a part of the [The Complete 2021 Flutter Development Bootcamp with Dart
 ### Check out all of my flutter projects [here.](https://github.com/MrAlpha786/flutter_projects)
 
 ## Installation
-* ### Github Release
-  * Download the latest [release apk.](https://github.com/MrAlpha786/IAmRich/releases/latest)
-  * If Google Play Protect gives a warning click on install anyway.
-  * That's it
+
+- ### Github Release
+  - Download the latest [release apk.](https://github.com/MrAlpha786/MiCard/releases/latest)
+  - If Google Play Protect gives a warning click on install anyway.
+  - That's it
 
 ## Screenshots
 
